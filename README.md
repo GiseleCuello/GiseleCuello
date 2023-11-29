@@ -20,7 +20,7 @@ Lo que me impulsa es la creencia de que cada línea de código tiene el potencia
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,ts,js,html,css,tailwind,bootstrap,discord,mongodb,netlify,nodejs,ps,postgres,redux,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,tailwind,vite,bootstrap,discord,mongodb,vercel,netlify,nodejs,ps,postgres,redux,styledcomponents,materialui,sequelize,vscode,regex,postman,figma,express" />
   </a>
   </p>
 
