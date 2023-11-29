@@ -8,7 +8,7 @@ Mi viaje en el mundo del desarrollo va más allá de la simple codificación; so
 ### :nerd_face: Experiencia Profesional:
 En mi papel como desarrolladora, he trabajado en entornos ágiles utilizando metodologías Scrum, lo que me ha permitido colaborar eficientemente en equipos multifuncionales para lograr objetivos claros y entregas exitosas. Mi enfoque es siempre mantenerme actualizada con las últimas tendencias tecnológicas y aplicarlas de manera práctica en mis proyectos.
 
-### :books: Docente y Facilitadora:
+### :books: Docente:
 Además de mi trayectoria en desarrollo, también tengo una faceta como docente, compartiendo mi pasión por la tecnología y la programación. Esta experiencia me ha enseñado la importancia de la comunicación efectiva y la adaptabilidad, habilidades que aplico tanto en el aula como en entornos de desarrollo.
 
 ### :rocket: Lo que me Impulsa:
